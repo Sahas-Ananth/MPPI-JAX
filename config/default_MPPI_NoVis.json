@@ -9,7 +9,7 @@
     "MAX_LIN_VEL": 1.0,
     "MIN_ANG_VEL": -3.141592653589793,
     "MAX_ANG_VEL": 3.141592653589793,
-    "VISUALIZE": true,
+    "VISUALIZE": false,
     "CAR_WIDTH": 0.75,
     "CAR_HEIGHT": 0.5,
     "SHOW_ALL_ROLLOUTS": false,

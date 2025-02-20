@@ -31,6 +31,7 @@ You can run the `src/run_mppi.py` file:
 python3 src/run_mppi.py -h
 # To set config file
 python3 src/run_mppi.py -c <PATH_TO_CONFIG_FILE> # replace everything from < to > with the path
-# To use default config found at config/default_MPPI.json
-python3 src/run_mppi.py -h
+# To use default config found at config/default_MPPI.json is with visualization
+# To use default config found at config/default_MPPI_NoVis.json is without visualization (for docker use this)
+python3 src/run_mppi.py
 ```
