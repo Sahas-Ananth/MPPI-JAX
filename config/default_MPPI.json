@@ -1,0 +1,22 @@
+{
+    "NO_ROLLOUTS": 512,
+    "NO_SAMPLES": 64,
+    "DT": 0.1,
+    "TEMPERATURE": 0.3,
+    "LIN_VEL_VAR": 1.0,
+    "ANG_VEL_VAR": 1.0,
+    "MIN_LIN_VEL": -0.1,
+    "MAX_LIN_VEL": 1.0,
+    "MIN_ANG_VEL": -3.141592653589793,
+    "MAX_ANG_VEL": 3.141592653589793,
+    "VISUALIZE": true,
+    "CAR_WIDTH": 0.75,
+    "CAR_HEIGHT": 0.5,
+    "SHOW_ALL_ROLLOUTS": false,
+    "INIT_SEED": 0,
+    "MAX_PLAN_LOOP": 500,
+    "GOAL_TOLERANCE": 0.1,
+    "MAP_RESOLUTION": 1.0,
+    "OBS_COST": 1000,
+    "INFLATION_COST": 150
+}
